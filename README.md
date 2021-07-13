@@ -1,5 +1,5 @@
 # Welcome
-And Hello, i'm Said, my developer identity is SaidTejeda2012-Devs
+And Hello, i'm Said
 # About me!
 I'm a programer, i learned VB .NET (To start), Python, and other languages!
 # Info
